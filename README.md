@@ -4,10 +4,10 @@
 
 <div align="left">
   <a href="lucaslins.link@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge&link=mailto:lucaslins.link@gmail.com" height="30" alt="gmail logo"  />
   </a>
   <a href="linkedin.com/in/lucas-linspereira/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge&link=https://www.linkedin.com/in/lucas-linspereira/" height="30" alt="linkedin logo"  />
   </a>
   <a href="http://lattes.cnpq.br/2826527629990948" target="_blank">
     <img src="https://img.shields.io/badge/-CNPq%20Lattes-green?style=flat-square&labelColor=green&color=green&link=http://lattes.cnpq.br/2826527629990948" height="30" alt="cnpq logo"  />
