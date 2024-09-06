@@ -1,8 +1,9 @@
-<h2 align="left">Lucas Lins 🖥️</h2>
+<h1 align="center">Hi, i'm Lucas Lins 🖥️</h2>
+<h3 align="center">Computer Science Student | Software developer</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="mailto:lucaslins.link@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
   </a>
@@ -24,21 +25,32 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucas-lins&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-lins&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="15" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="15" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="15" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-plain.svg" height="30" alt="csharp logo"  />
+  <img width="15" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" height="30" alt="c logo"  />
+  <img width="15" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="15" />
 </div>
 
 ###
