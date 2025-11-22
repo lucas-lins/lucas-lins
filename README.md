@@ -57,7 +57,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://seu-portfolio-aqui.com" target="_blank">
+  <a href="https://lucaslinsportfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
@@ -65,7 +65,7 @@
     <img src="https://img.shields.io/badge/Lattes-1a7f37?style=for-the-badge&logo=academia&logoColor=white" />
   </a>
 
-  <a href="https://github.com/SeuUsuario/SeuRepo/raw/main/assets/CV-LucasLins.pdf" target="_blank">
+  <a href="https://drive.google.com/file/d/1uZOz10GvPZZOIbf4cWvZYp6xvOelmZj7/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Download%20My%20CV-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white" />
   </a>
 
